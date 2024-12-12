@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+💬 I'm a Fullstack developer. I do discord bots, Sites, , I'm a novice developer.
+
+📫 How to contact me: You can send me email to mistilplay558@gmail.com
+
+🔭 My education: Software Development(currently studying)
+
+## My tech stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+[![Anurag's GitHub stats](https://github-readme-stats-wheat-nu-29.vercel.app/api?username=Feoor&theme=onedark)](https://github.com/Feoor/github-readme-stats)
 <!--
 **Feoor/Feoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
